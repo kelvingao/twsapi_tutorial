@@ -3,4 +3,8 @@
 Tests
 =====
 
-.. automodule:: tests.test_conn
+App
+---
+
+.. automodule:: tests.app
+
